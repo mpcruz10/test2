@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.navbar {
+    background-color: #FFC8EA;
+}
+.row .col-lg-4 .btn.btn-lg {
+    background-color: #006FC8;
+	justify-content: center;
+}
+.btn btn-lg {
+	justify-content: center;
+	align-items: center;
+}
+.row .container {
+    background-color: #006FC8;
+}
+.row .container .text-center {
+    background-color: #FFC8EA;
+}
+body {
+    background-color: #D3EFD2;
+}
+footer {
+    background-color: #FFC8EA;
+}
